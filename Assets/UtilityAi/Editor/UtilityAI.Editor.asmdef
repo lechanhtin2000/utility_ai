@@ -1,0 +1,10 @@
+{
+    "name": "UtilityAI.Editor",
+    "references": [
+        "UtilityAI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
